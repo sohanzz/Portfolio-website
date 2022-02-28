@@ -10,3 +10,4 @@ Pillow==9.0.1
 platformdirs==2.5.1
 sqlparse==0.4.2
 virtualenv==20.13.1
+whitenoise==6.0.0
